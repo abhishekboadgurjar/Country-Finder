@@ -1,6 +1,5 @@
 # Country Finder Website
 
-
 ### Introduction
 In this blog post, we'll explore how to build a Country Finder application using React. This application allows users to search for countries, filter them by region, and view detailed information about each country. We will utilize React's hooks and context to manage state and theming, and we'll integrate with the REST Countries API to fetch country data.
 
