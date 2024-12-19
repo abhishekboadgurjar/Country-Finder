@@ -74,4 +74,4 @@ In this project, we built a Country Finder application using React that allows u
 - **Font Awesome**: [Font Awesome](https://fontawesome.com/)
 
 ### Author
-**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekgurjar-in).
+**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekboadgurjar).
